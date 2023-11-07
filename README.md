@@ -2,43 +2,34 @@
 
 ## Sobre o projeto
 
-**Aplicação de cadastro e login, salva dados e funciona no login.**
+- Aplicação de cadastro e login, salva dados e funciona no login
 
-### Como instalar:
-**Baixe o apk no seu smartphone, cerifique-se de que seu smartphone está configurado para aceitar apps de terceiros, assim não terá conflitos.**
-
-### Pré-Requisitos:
-**Android 24 em diante.**
-<br>
-
-### APK:
-<a href=./appLogin.apk>Download APK </a>
-
-### Layout mobile:
-<div>
-<img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/AppLogin/assets/83030989/673a1055-494d-4e00-b4f4-9efcbffb823e">
-  <img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/AppLogin/assets/83030989/fbef15e0-b986-48a6-9ec0-5efe8bef433c">
-  <img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/AppLogin/assets/83030989/47b0f5e0-1de4-4190-8172-419c4a2231de">
-</div>
-
-
-<br><br>
-<hr>
+## Layout Mobile:
+![image](https://github.com/fabio-solbego/AppLogin/assets/83030668/c1436167-da9b-43f9-878c-97cbde0d8b55)
+![image](https://github.com/fabio-solbego/AppLogin/assets/83030668/bbabc6af-8fe1-4061-991b-aedd726b45cc)
+![image](https://github.com/fabio-solbego/AppLogin/assets/83030668/644b8d5c-40e2-4165-96eb-ee9fb6a70500)
 
 
 ## Tecnologias utilizadas:
 
-### BackEnd:
-**Java.**
+- Backend - Java (Mobile)
 
-### FrontEnd:
-**XML.**
+- Frontend - XML (Activity)
 
-### IDE
-**Android studio**
+## IDE:  
 
-<br></br>
-<hr>
+- Android Studio
 
-### Autor:
-<a href="https://github.com/Arthur-Cardoso-de-Jesus">  Arthur Cardoso de Jesus  </a>
+## APK do Projeto:
+
+<a href="https://drive.google.com/file/d/1VasZwcD7lbH2CjkxzogdzNphQZS_5zTN/view?usp=sharing">Download do APP </a>
+
+## Como instalar:
+
+1 - Clique no link de download
+
+2 - Clique no botão "Download"
+
+## Pré-requisitos:
+
+- Versão do Android 8.0
